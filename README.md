@@ -11,3 +11,11 @@ season. There are no missing values, and the design is balanced with 45 measurem
 combination of section and season (5 × 4 × 45 = 900). The task does not describe how the
 measurements were collected.
 
+We investigate two questions:
+1. Do the mean nitrate concentration and the mean oxygen concentration differ between
+spring and autumn?
+2. Does the mean concentration of nitrate and of oxygen differ between the five sections? If
+yes, which sections differ from each other?
+Question 1 uses only the spring and autumn rows (225 each, 450 in total), and Question 2 uses
+all 900 rows of the data set.
+
