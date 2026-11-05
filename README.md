@@ -4,6 +4,7 @@ waterquality.csv provided by TU Dortmund University for the application task of 
 mer semester 2027. Each row records the concentrations of nitrate and oxygen (in mg/L) mea-
 sured in one of five sections of the river, ranging from the headwaters (A1) to the mouth (A5),
 during one of four seasons. The four seasons are spring, summer, autumn and winter.
+
 The variables in the data set are ID, river_section (ordinal scale), saison (nominal scale),
 oxygen_mgL (ratio scale) and nitrate_mgL (ratio scale). Since ID is an identifier with no
 analytical meaning, it has no scale level. The file uses the German name “saison” for the
