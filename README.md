@@ -7,4 +7,7 @@ during one of four seasons. The four seasons are spring, summer, autumn and wint
 The variables in the data set are ID, river_section (ordinal scale), saison (nominal scale),
 oxygen_mgL (ratio scale) and nitrate_mgL (ratio scale). Since ID is an identifier with no
 analytical meaning, it has no scale level. The file uses the German name “saison” for the
-season. 
+season. There are no missing values, and the design is balanced with 45 measurements per
+combination of section and season (5 × 4 × 45 = 900). The task does not describe how the
+measurements were collected.
+
